@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AutoLayer</string>
+    <string name="accessibility_desc">AutoLayer automates tasks across apps by reading screen content and performing gestures. All data stays on device.</string>
+</resources>
